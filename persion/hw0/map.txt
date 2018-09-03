@@ -1,0 +1,8 @@
+1. _main and recur both in .text section(0x764 0x6fa). foo and stuff both in .data(0x201018 0x201010).  
+2. Important List:
+
+3. The stack grow from top to bottom.
+4. 48 bytes.
+5. Heap was dynamicly allocated. It grows from bottom to top.
+6. Yes, there is some space between them.
+ 
