@@ -1,0 +1,5 @@
+1,elf, x86-64
+2. .text:main 0x40075d ~~Too many of them.
+3. .text:main 0x40075d
+4. Because heap nad stack are dynamic allocated.
+
