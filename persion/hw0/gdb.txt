@@ -1,0 +1,6 @@
+1.0x7fffffffdda8
+2."/home/kk/CS_Courses/MY_MIT_CS_Courses/cs162-110/persion/hw0/wc"
+3.0x00005555555549b6
+4.The stack contain the infomation of current funtion saved in stack.
+5.The frame contain the information of current frame.
+6.
